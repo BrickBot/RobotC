@@ -13,12 +13,9 @@ This repository is not affiliated in any with any of the following:
 * [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/).
 
 
-### Links
-
+## Links
 * Original Website – http://www.robotc.net/download/rcx/
-
 * Teaching RobotC
   - Flash/Shockwave-Based Index – http://cmra.rec.ri.cmu.edu/products/teachingmindstorms/
     + If this index does not seem to work, please use the HTML-based site map linked below.
-
   - HTML-Based Site Map - http://cmra.rec.ri.cmu.edu/products/teachingmindstorms/index/prodindex.htm
