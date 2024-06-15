@@ -13,9 +13,15 @@ This repository is not affiliated in any with any of the following:
 * [Carnegie Mellon Robotics Academy](https://www.cmu.edu/roboticsacademy/).
 
 
+## Firmware
+Several versions of firmware were released, some of which were compatible with the LEGO firmware.
+* [Known Firmware Versions](https://github.com/BrickBot/RobotC/releases/tag/Firmware)
+
+
 ## Links
-* Original Website – http://www.robotc.net/download/rcx/
+* Archive of Initial DRJ Software Website – [http://www.drjsoftware.com/](https://web.archive.org/web/20080517122327/http://www.drjsoftware.com/)
+* RobotC for RCX Website – http://www.robotc.net/download/rcx/
 * Teaching RobotC
   - Flash/Shockwave-Based Index – http://cmra.rec.ri.cmu.edu/products/teachingmindstorms/
     + If this index does not seem to work, please use the HTML-based site map linked below.
-  - HTML-Based Site Map - http://cmra.rec.ri.cmu.edu/products/teachingmindstorms/index/prodindex.htm
+  - HTML-Based Site Map – http://cmra.rec.ri.cmu.edu/products/teachingmindstorms/index/prodindex.htm
