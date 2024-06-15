@@ -6,4 +6,5 @@ If the Shockwave/Flash-based "index.html" webpage is not fully functional,
 please use the "site_map.html" webpage instead.
 
 Due to the size of the teaching guide, only files that are updates to the guide are
-currently posted in this repository.
+currently posted in this repository.  The full download is available under Releases:
+* https://github.com/BrickBot/RobotC/releases/tag/v2.03
