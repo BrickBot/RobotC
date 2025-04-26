@@ -14,7 +14,7 @@ This repository is not affiliated in any with any of the following:
 
 
 ## Firmware
-Several versions of firmware were released, some of which were compatible with the LEGO firmware.
+Several versions of firmware were released, some of which were compatible with the LEGO firmware and/or NQC.
 * [Known Firmware Versions](https://github.com/BrickBot/RobotC/releases/tag/Firmware)
 
 
